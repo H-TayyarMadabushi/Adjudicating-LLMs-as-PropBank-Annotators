@@ -1,0 +1,208 @@
+,Sentence,Source,Verb,Sense,Sense Meaning,Rolese,Arguments
+TRANSITIVE,"Most of the demonstrators were orderly and good-humored, but a fringe of activists broke some doors and windows of the halls and committed two minor assaults.",COCA 2000,break,break.01,"break, cause to not be whole","ARG0 breaker
+ARG1: thing broken
+ARG2: instrument
+ARG3: pieces
+ARG4: arg1 broken away from what?","Arg0: a fringe of activists
+Rel: broke
+Arg1: some doors and windows of the halls"
+,But the local leaders were ecstatic; this number broke all records for a single registration day.,COCA 2006,break,break.01,"break, cause to not be whole","ARG0: breaker
+ARG1: thing broken
+ARG2: instrument
+ARG3: pieces
+ARG4: arg1 broken away from what?","Arg0: this number
+Rel: broke
+Arg1: all records for a single registration day.
+"
+,Ty poured some syrup in his pan and got a piece of bread. ,COCA 2001,pour,pour.01,move liquids,"ARG0: agent, pourer
+ARG1: liquid
+ARG2: source
+ARG3: destination","Arg0: Ty
+Rel: poured
+Arg1: some syrup
+Arg3: in his pan"
+,… Everyone from blue-chip companies to little old ladies poured that money into the stock market.,COCA - 2001,pour,pour.01,move liquids,"ARG0: agent, pourer
+ARG1: liquid
+ARG2: source
+ARG3: destination","Arg0: Everyone from blue chip companies to little old ladies
+Rel: poured
+Arg1: that money
+Arg3: into the stock market"
+,It was due to illness and the doctor wrote a letter saying I couldn't fly.,COCA - 2012,write,write.01,set pen to paper,"ARG0: writer
+ARG1: thing written
+ARG2: benefactive","Arg0: the doctor
+Rel: wrote
+Arg1: a letter saying I couldn’t fly."
+,"… go back to the 19th Century, when Mark Twain wrote ""Whiskey's for drinking, water's for fighting over.",COCA - 2012,write,write.01,set pen to paper,"ARG0: writer
+ARG1: thing written
+ARG2: benefactive","Arg0: Mark Twain
+Rel: wrote
+Arg1: “Whiskey’s for drinking, water’s for fighting over.” 
+ArgM-TMP: when"
+,I saw that dude dealing drugs.,COCA 2009,deal,deal.02,"play cards, distribute something, distribution","ARG0: dealer, distributor
+ARG1: cards, thing distributed
+ARG2: other player(s), distributed-to","Arg0: that dude
+Rel: dealing
+Arg1: drugs"
+,The author deals accolades and dishes out the royal dirt with an even hand.,COCA 2012,deal,deal.02,"play cards, distribute something, distribution","ARG0: dealer, distributor
+ARG1: cards, thing distributed
+ARG2: other player(s), distributed-to","Arg0: The author
+Rel: deals
+Arg1: accolades"
+,Ok so last night my wife smelled something like it was burning …,COCA 2012,smell,smell.01,"notice an odor, act of smelling","ARG0: entity with a nose
+ARG1: stinky thing","ArgM-TMP: last night
+Arg0: my wife
+Rel: smelled
+Arg1: something like it was burning …"
+,This reporter smells another Emmy. ,COCA 1990,smell,smell.01,"notice an odor, act of smelling","ARG0: entity with a nose
+ARG1: stinky thing","Arg0: this reporter
+Rel: smells
+Arg1: another Emmy."
+,I can't parse what you mean here. ,COCA 2012,parse,parse.01,analyze into parts,"ARG0: parser
+ARG1: thing analyzed
+ARG2: end state, parts","Arg0: I
+ArgM-MOD: can
+ArgM-NEG:n’t
+Rel: parse
+Arg1: what you mean here."
+,Jill can probably parse the consent/non-consent question with far more finesse than I can. ,COCA 2012,parse,parse.01,analyze into parts,"ARG0: parser
+ARG1: thing analyzed
+ARG2: end state, parts","Arg0: Jill
+ArgM-MOD: can
+ArgM-ADV: probably
+Rel: parse
+Arg1: the consent/non-consent question
+ArgM-MNR: with far more finesse than I can "
+,"… the Palestinians rained stones down onto Jews praying at the Western Wall below, injuring 11.",COCA 1990,rain,rain.01,rain,"ARG0: metaphorical agent
+ARG1: metaphorical rain
+ARG2: rained upon","Arg0: …the Palestinians
+Rel: rained
+Arg1: stones
+ArgM-DIR: down 
+Arg2: onto Jews praying at the Western Wall
+ArgM-ADV: injuring 11."
+,In his mid-20s fate rained money on him …,COCA 2005,rain,rain.01,rain,"ARG0: metaphorical agent
+ARG1: metaphorical rain
+ARG2: rained upon","ArgM-TMP: In his mid-20s
+Arg0: fate
+Rel: rained
+Arg1: money
+Arg2: on him "
+INTRANSITIVE,I think you were badly cut when the chair broke under you. ,COCA 2001,break,break.01,"break, cause to not be whole","ARG0: breaker
+ARG1: thing broken
+ARG2: instrument
+ARG3: pieces
+ARG4: arg1 broken away from what?","Arg1: the chair
+Rel: broke
+ArgM-LOC: under yo
+"
+,… that marriage broke apart because of her feelings for this other astronaut?,COCA 2007,break,break.16,separate one entity from another,"ARG0: entity in motion
+ARG1: movement away from what
+ARG2: secondary predication on arg0 (free, loose, etc)","Arg0: that marriage 
+Rel: broke
+Arg2: apart"
+,Blood poured from Stark's nose and a cut near his right eye.,COCA 2017,pour,pour.01,move liquids,"ARG0: agent, pourer
+ARG1: liquid
+ARG2: source
+ARG3: destination","Arg1: Blood
+Rel: poured
+Arg2: from Stark’s nose and a cut near his right eye."
+,70s pop music poured out of the stereo.,COCA 1999,pour,pour.01,move liquids,"ARG0: agent, pourer
+ARG1: liquid
+ARG2: source
+ARG3: destination","Arg1: 70s pop music
+Rel: poured
+Arg2: out of the stereo."
+,This fellow writes abominably. ,COCA 2019,write,write.01,set pen to paper,"ARG0: writer
+ARG1: thing written
+ARG2: benefactive","Arg0: This fellow
+Rel: writes
+ArgM-MNR: abominably"
+,"Seton writes every morning now, starting at 6 a.m.",COCA 2013,write,write.01,set pen to paper,"ARG0: writer
+ARG1: thing written
+ARG2: benefactive","Arg0: Seton
+Rel: writes
+ArgM-TMP: every morning
+ArgM-TMP: now
+ArgM-TMP: starting at 6 a.m."
+,Jesus was dealing again. ,COCA 2015,deal,deal.02,"play cards, distribute something, distribution","ARG0: dealer, distributor
+ARG1: cards, thing distributed
+ARG2: other player(s), distributed-to","Arg0: Jesus
+Rel: was dealing
+ArgM-TMP: again"
+,"He deals to the Armenians, and he knows all the real border brothers! ",COCA 2016,deal,deal.02,"play cards, distribute something, distribution","ARG0: dealer, distributor
+ARG1: cards, thing distributed
+ARG2: other player(s), distributed-to","Arg0: He
+Rel: deals
+Arg2: to the Armenians"
+,Butterflies smell with their feet. ,COCA 2003,smell,smell.01,"notice an odor, act of smelling","ARG0: entity with a nose
+ARG1: stinky thing","Arg0: Butterflies
+Rel: smell
+ArgM-MNR: with their feet"
+,Do you think dogs smell in color?,COCA 2006,smell,smell.01,"notice an odor, act of smelling","ARG0: entity with a nose
+ARG1: stinky thing","Arg0: dogs
+Rel: smell
+ArgM-MNR: in color?"
+,Who consistently parses well across dozens of runs? ,FFXI Web Forum,parse,parse.01,analyze into parts,"ARG0: parser
+ARG1: thing analyzed
+ARG2: end state, parts","Arg0: Who
+ArgM-MNR: consistenbtly
+Rel: parses
+ArgM-MNR: well
+ArgM-TMP: across dozens of runs?"
+,"On days when it rains nonstop, they throw sheets of plastic over their hung wash.",COCA 2015,rain,rain.01,rain,"ARG0: metaphorical agent
+ARG1: metaphorical rain
+ARG2: rained upon","Arg0: it
+Rel: rains
+ArgM-TMP: nonstop
+ArgM-TMP: when"
+,In spring and fall it rains occasionally. ,COCA 1996,rain,rain.01,rain,"ARG0: metaphorical agent
+ARG1: metaphorical rain
+ARG2: rained upon","ArgM-TMP: In spring and fall
+Arg0: it
+Rel: rains
+ArgM-TMP: occasionally."
+MIDDLE ,Use the heavy floss because the fine floss breaks easily.,COCA 1994,break,break.01,"break, cause to not be whole","ARG0: breaker
+ARG1: thing broken
+ARG2: instrument
+ARG3: pieces
+ARG4: arg1 broken away from what?","Arg1: the fine floss
+Rel: breaks
+ArgM-MNR: easily"
+,The beer pours a hazy yellow color with a huge white head.,ELL Stack Exchange 2015,pours,pour.01,move liquids,"ARG0: agent, pourer
+ARG1: liquid
+ARG2: source
+ARG3: destination","Arg1: The beer
+Rel: pours 
+ArgM-PRD: a hazy yellow color with a huge white hed. "
+,"Lightweight and compact, the Inka pen writes upside down, underwater and at any altitude. ",COCA 2007,write,write.01,set pen to paper,"ARG0: writer
+ARG1: thing written
+ARG2: benefactive","ArgM-PRD: Lightweight and compact
+Arg0: the Inka pen
+Rel: writes
+ArgM-MNR: upside down, underwater and at any altitude"
+,The cardstock is heavy and the cards deal smoothly. ,Amazon reviews,deal,deal.02,"play cards, distribute something, distribution","ARG0: dealer, distributor
+ARG1: cards, thing distributed
+ARG2: other player(s), distributed-to","Arg1: the cards
+Rel: deal
+ArgM-MNR: smoothly"
+,Our guy smells incredible. ,COCA 2000,smell,smell.02,emit an odor,"ARG1: stinky thing
+ARG2: attribute of arg1","Arg1: Our guy
+Rel: smells
+Arg2: incredible. "
+,… all syntaxes parse to variations on the same parse trees and compile to the same runtime.,COCA 2012,parse,parse.01,analyze into parts,"ARG0: parser
+ARG1: thing analyzed
+ARG2: end state, parts","Arg1: …all syntaxes
+Rel: parse
+Arg2: to variations on the same parse trees"
+,Spivak is the most gender-free pronoun that parses well in English …,COCA 2012,parse,parse.01,analyze into parts,"ARG0: parser
+ARG1: thing analyzed
+ARG2: end state, parts","Arg1: that
+Rel: parses
+ArgM-MNR: well
+Arg2: in English"
+,"Lobsters, leeks, and carrots rain from the night sky. ",COCA 1990,rain,rain.01,rain,"ARG0: metaphorical agent
+ARG1: metaphorical rain
+ARG2: rained upon","Arg1: Lobsters, leeks, and carrots
+Rel: rain
+ArgM-DIR: from the night sky."
